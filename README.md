@@ -1,1 +1,1 @@
-# Data-Analysis-with-Python-course-7
+# Data-Analysis-with-Python-Coursera course-7
